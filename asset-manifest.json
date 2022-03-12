@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brightid-nft-restore-public/static/css/main.b28a335e.chunk.css",
-    "main.js": "/brightid-nft-restore-public/static/js/main.317c6fba.chunk.js",
-    "main.js.map": "/brightid-nft-restore-public/static/js/main.317c6fba.chunk.js.map",
+    "main.js": "/brightid-nft-restore-public/static/js/main.e2cbe097.chunk.js",
+    "main.js.map": "/brightid-nft-restore-public/static/js/main.e2cbe097.chunk.js.map",
     "runtime-main.js": "/brightid-nft-restore-public/static/js/runtime-main.e5834410.js",
     "runtime-main.js.map": "/brightid-nft-restore-public/static/js/runtime-main.e5834410.js.map",
     "static/js/2.63df0cc7.chunk.js": "/brightid-nft-restore-public/static/js/2.63df0cc7.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.e5834410.js",
     "static/js/2.63df0cc7.chunk.js",
     "static/css/main.b28a335e.chunk.css",
-    "static/js/main.317c6fba.chunk.js"
+    "static/js/main.e2cbe097.chunk.js"
   ]
 }
