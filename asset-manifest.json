@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/brightid-nft-rescue-public/static/css/main.b28a335e.chunk.css",
-    "main.js": "/brightid-nft-rescue-public/static/js/main.e2cbe097.chunk.js",
-    "main.js.map": "/brightid-nft-rescue-public/static/js/main.e2cbe097.chunk.js.map",
-    "runtime-main.js": "/brightid-nft-rescue-public/static/js/runtime-main.286a054b.js",
-    "runtime-main.js.map": "/brightid-nft-rescue-public/static/js/runtime-main.286a054b.js.map",
-    "static/js/2.7c2c4276.chunk.js": "/brightid-nft-rescue-public/static/js/2.7c2c4276.chunk.js",
-    "static/js/2.7c2c4276.chunk.js.map": "/brightid-nft-rescue-public/static/js/2.7c2c4276.chunk.js.map",
-    "static/js/3.56dead92.chunk.js": "/brightid-nft-rescue-public/static/js/3.56dead92.chunk.js",
-    "static/js/3.56dead92.chunk.js.map": "/brightid-nft-rescue-public/static/js/3.56dead92.chunk.js.map",
-    "index.html": "/brightid-nft-rescue-public/index.html",
-    "static/css/main.b28a335e.chunk.css.map": "/brightid-nft-rescue-public/static/css/main.b28a335e.chunk.css.map",
-    "static/js/2.7c2c4276.chunk.js.LICENSE.txt": "/brightid-nft-rescue-public/static/js/2.7c2c4276.chunk.js.LICENSE.txt",
-    "static/media/google-play.841fe8b4.png": "/brightid-nft-rescue-public/static/media/google-play.841fe8b4.png",
-    "static/media/is-verified-ss.3e77ab12.png": "/brightid-nft-rescue-public/static/media/is-verified-ss.3e77ab12.png",
-    "static/media/logo.b1016540.png": "/brightid-nft-rescue-public/static/media/logo.b1016540.png",
-    "static/media/open-achievements-ss.e373cd17.png": "/brightid-nft-rescue-public/static/media/open-achievements-ss.e373cd17.png"
+    "main.css": "/static/css/main.b28a335e.chunk.css",
+    "main.js": "/static/js/main.e2cbe097.chunk.js",
+    "main.js.map": "/static/js/main.e2cbe097.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1b17bd2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1b17bd2.js.map",
+    "static/js/2.30f42e80.chunk.js": "/static/js/2.30f42e80.chunk.js",
+    "static/js/2.30f42e80.chunk.js.map": "/static/js/2.30f42e80.chunk.js.map",
+    "static/js/3.56dead92.chunk.js": "/static/js/3.56dead92.chunk.js",
+    "static/js/3.56dead92.chunk.js.map": "/static/js/3.56dead92.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b28a335e.chunk.css.map": "/static/css/main.b28a335e.chunk.css.map",
+    "static/js/2.30f42e80.chunk.js.LICENSE.txt": "/static/js/2.30f42e80.chunk.js.LICENSE.txt",
+    "static/media/google-play.841fe8b4.png": "/static/media/google-play.841fe8b4.png",
+    "static/media/is-verified-ss.3e77ab12.png": "/static/media/is-verified-ss.3e77ab12.png",
+    "static/media/logo.b1016540.png": "/static/media/logo.b1016540.png",
+    "static/media/open-achievements-ss.e373cd17.png": "/static/media/open-achievements-ss.e373cd17.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.286a054b.js",
-    "static/js/2.7c2c4276.chunk.js",
+    "static/js/runtime-main.e1b17bd2.js",
+    "static/js/2.30f42e80.chunk.js",
     "static/css/main.b28a335e.chunk.css",
     "static/js/main.e2cbe097.chunk.js"
   ]
