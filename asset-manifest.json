@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.b28a335e.chunk.css",
-    "main.js": "/static/js/main.73db4736.chunk.js",
-    "main.js.map": "/static/js/main.73db4736.chunk.js.map",
+    "main.css": "/static/css/main.af423fc3.chunk.css",
+    "main.js": "/static/js/main.01f118a2.chunk.js",
+    "main.js.map": "/static/js/main.01f118a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e1b17bd2.js",
     "runtime-main.js.map": "/static/js/runtime-main.e1b17bd2.js.map",
     "static/js/2.30f42e80.chunk.js": "/static/js/2.30f42e80.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.56dead92.chunk.js": "/static/js/3.56dead92.chunk.js",
     "static/js/3.56dead92.chunk.js.map": "/static/js/3.56dead92.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b28a335e.chunk.css.map": "/static/css/main.b28a335e.chunk.css.map",
+    "static/css/main.af423fc3.chunk.css.map": "/static/css/main.af423fc3.chunk.css.map",
     "static/js/2.30f42e80.chunk.js.LICENSE.txt": "/static/js/2.30f42e80.chunk.js.LICENSE.txt",
     "static/media/google-play.841fe8b4.png": "/static/media/google-play.841fe8b4.png",
     "static/media/is-verified-ss.3e77ab12.png": "/static/media/is-verified-ss.3e77ab12.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.e1b17bd2.js",
     "static/js/2.30f42e80.chunk.js",
-    "static/css/main.b28a335e.chunk.css",
-    "static/js/main.73db4736.chunk.js"
+    "static/css/main.af423fc3.chunk.css",
+    "static/js/main.01f118a2.chunk.js"
   ]
 }
